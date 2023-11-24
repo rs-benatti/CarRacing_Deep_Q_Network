@@ -7,5 +7,8 @@ The custom architecture is a CNN to extract features of the state, that is in th
 The Architecture of the network can be seen below.
 ![Alt text](DQN.png)
 
-The result after training is:
-![Alt text](Custom_QNet_Learner_Animation.gif)
+<div align="center">  
+  <img align="center" alt="GIF" src="https://github.com/rs-benatti/CarRacing_Deep_Q_Network/blob/master/Custom_QNet_Learner_Animation.gif"
+ width="200" height="200" />
+</div>
+
