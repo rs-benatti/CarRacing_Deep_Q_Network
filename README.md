@@ -26,4 +26,6 @@ The results can be seen below:
  width="400" height="400" />
 </div>
 
+An hypothesis here is that the frozen structure of the resnet didn't allow a good extraction of the features.
+
 
