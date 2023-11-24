@@ -1,0 +1,4 @@
+swig
+gymnasium[box2d]
+pyvirtualdisplay
+numpy==1.19
